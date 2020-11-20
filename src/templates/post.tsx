@@ -412,7 +412,7 @@ export const PostFullTitle = styled.h1`
   }
 `;
 
-const PostFullImage = styled.figure`
+export const PostFullImage = styled.figure`
   margin: 25px 0 50px;
   height: 800px;
   background: ${colors.lightgrey} center center;

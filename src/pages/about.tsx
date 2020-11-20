@@ -18,6 +18,7 @@ import {
 } from '../styles/shared';
 import { NoImage, PostFull, PostFullHeader, PostFullTitle } from '../templates/post';
 import { colors } from '../styles/colors';
+import { graphql } from 'gatsby';
 
 const PageTemplate = css`
   .site-main {
@@ -34,7 +35,26 @@ const PageTemplate = css`
   }
 `;
 
-const About: React.FC = () => (
+interface AboutTemplateProps {
+  data: {
+    ale: {
+      childImageSharp: {
+        fixed: {
+          src: string;
+        }
+      }
+    },     
+    paAle: {
+      childImageSharp: {
+        fixed: {
+          src: string;
+        }
+      }
+    };
+  };
+}
+
+const About: React.FC<AboutTemplateProps> = (props) => (
   <IndexLayout>
     <Helmet>
       <title>About</title>
@@ -51,48 +71,26 @@ const About: React.FC = () => (
         <div css={inner}>
           <article className="post page" css={[PostFull, NoImage]}>
             <PostFullHeader className="post-full-header">
-              <PostFullTitle className="post-full-title">About</PostFullTitle>
+              <PostFullTitle className="post-full-title">About Ale</PostFullTitle>
             </PostFullHeader>
-
             <PostFullContent className="post-full-content">
               <div className="post-content">
+              <img style={{float: "none"}} src={props.data.ale.childImageSharp.fixed.src} />
                 <h5>
-                  A starter template for Gatsby <br /> GitHub: <a href="https://github.com/scttcper/gatsby-casper">scttcper/gatsby-casper</a>
+                  Who am I?
                 </h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                  non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                  Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in
-                  neque. Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam
-                  aliquam tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at
-                  diam tempus, ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam
-                  eget, consequat blandit nulla. Integer volutpat velit vitae purus lacinia aliquam.
-                  Integer bibendum ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla
-                  eu massa id orci placerat finibus vel sit amet eros. Vestibulum quis consequat
-                  massa. Sed sagittis sollicitudin massa at commodo. Praesent diam nisi, imperdiet
-                  posuere eleifend nec, blandit ac massa.
+                  ¡Hola! I am Alejandra Santamaría, a Colombian journalist currently living in Berlin and studying the Convergent Journalism Master’s in HMKW – University of Applied Sciences. 
                 </p>
                 <p>
-                  Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem,
-                  aliquam mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus
-                  blandit. Ut mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam
-                  molestie pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum
-                  non, sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id,
-                  laoreet nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac.
-                  Donec eget orci venenatis justo lobortis volutpat. Proin vel placerat nisl.
-                  Integer arcu nunc, sodales eu fringilla non, aliquam non diam. Cras placerat,
-                  massa et faucibus pretium, ante elit tincidunt tellus, tristique ultricies velit
-                  quam et massa.
+                  I am profoundly interested in cultural phenomena, particularly its intersection with social initiatives, and viral contents. My professional experience has been in the fields of cultural journalism and content and digital strategy creation, for movies and theater. 
                 </p>
                 <p>
-                  In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse
-                  ut tellus quis leo vestibulum tincidunt. Aenean nec enim ac dolor lacinia semper.
-                  Ut sed laoreet libero. Nunc elementum sollicitudin accumsan. Nunc eu augue neque.
-                  Proin a tortor nibh. Cras eu nisl ornare sapien feugiat pellentesque. Mauris
-                  dignissim vel quam eu pellentesque. Integer sit amet posuere quam, eu ullamcorper
-                  odio. Nullam a lacus tempus sapien dignissim ullamcorper. In hac habitasse platea
-                  dictumst. Proin quis massa aliquam, feugiat tortor sit amet, tincidunt urna. Donec
-                  posuere pulvinar lectus, ac semper ipsum vulputate quis.
+                  I love everything cute, memes, cool t-shirts, dancing reggaeton, coffee, beer and laughing loudly. I am also a yoga and running enthusiast, and you can see me almost always writing
+                </p>  
+                <p>
+                <img style={{float: "none"}} src={props.data.paAle.childImageSharp.fixed.src} />
+                 Here is a pic of me and my dad that defines me pretty well: always curious, always wondering, always trying.
                 </p>
               </div>
             </PostFullContent>
@@ -103,5 +101,23 @@ const About: React.FC = () => (
     </Wrapper>
   </IndexLayout>
 );
+
+export const pageQuery = graphql`
+  query pageQuery {
+    ale: file(relativePath: {eq: "img/ale.jpg"}) {
+      childImageSharp {
+        fixed(grayscale: true) {
+          src
+        }
+      }
+    }
+    paAle: file(relativePath: {eq: "img/PaAle.png"}) {
+      childImageSharp {
+        fixed {
+          src
+        }
+      }
+    }
+  }`
 
 export default About;
