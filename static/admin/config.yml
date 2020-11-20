@@ -18,7 +18,24 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', search_fields: [id], value_field: 'id', display_fields: ['id'] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: "Featured Image", name: 'image', widget: 'image'}
+
+  - name: 'authors'
+    label: 'Authors'
+    files:
+      - label: "Authors"
+        name: "authors"
+        file: "src/content/author.yaml"
+        fields:
+          - {label: ID, name: id, widget: string}
+          - {label: Avatar, name: avatar, widget: image}
+          - {label: Bio, name: bio, widget: string}
+          - {label: Twitter, name: twitter, widget: string}
+          - {label: Facebook, name: facebook, widget: string}
+          - {label: Website, name: website, widget: string}
+          - {label: Location, name: location, widget: string}
+          - {label: Profile Image, name: profile-image, widget: image}
