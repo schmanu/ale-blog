@@ -38,4 +38,4 @@ collections:
           - {label: Facebook, name: facebook, widget: string}
           - {label: Website, name: website, widget: string}
           - {label: Location, name: location, widget: string}
-          - {label: Profile Image, name: profile-image, widget: image}
+          - {label: Profile Image, name: profile_image, widget: image}
