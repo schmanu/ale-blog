@@ -2,7 +2,7 @@
 title: Berlin is a bitch and then you marry
 author:
   - Ale
-date: 2021-02-17T18:21:18.475Z
+date: 2021-02-17T19:59:31.222Z
 excerpt: "A friend invited me to talk about my experience living in Berlin for
   Dieverpeilte Magazine. The image accompanies the original article and belongs
   to Dieverpeilte. "
