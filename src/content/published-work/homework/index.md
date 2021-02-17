@@ -12,9 +12,7 @@ tags:
 image: virus-tropical-still_5.jpg
 draft: true
 ---
-**Each time we see more of ourselves in cinema**
-
-*I translated the original text, which was published [here](https://www.elespectador.com/noticias/cultura/cada-vez-nos-vemos-mas-en-el-cine/) in Spanish.* 
+*Translated from the original published [here](https://www.elespectador.com/noticias/cultura/cada-vez-nos-vemos-mas-en-el-cine/) in Spanish on March 2018.* 
 
 *Two productions, different in their narrative style and audiovisual language share the portraying of intimate, honest and real stories.*
 
