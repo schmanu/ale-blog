@@ -10,7 +10,7 @@ excerpt: A feature about movies and directors that reflect day-to-day struggles
 tags:
   - Published Work
 image: virus-tropical-still_5.jpg
-draft: false
+draft: true
 ---
 **Each time we see more of ourselves in cinema**
 
@@ -42,7 +42,7 @@ No formula or strategy was used in order to create this connection with the audi
 
 The desire of liberating from constant thoughts that turn heavy and difficult is common for both Laura Mora and Powerpaola in their films. **Matar a Jesús**, a love letter for someone that isn’t alive anymore, is written with cinematographic language and thanks to this, a catharsis is made. And in **Virus Tropical**, Powerpaola finds the way to spark her inspiration: getting her head and life rid of things that haunt her.
 
-![Still from Virus Tropical](virus-tropical-still_5.jpg)
+![Santiago Caicedo, director, and Powerpaola, illustrator of Virus Tropical. Picture by Joaquin Sarmiento. ](003virustropical_joaquinsarmient003.jpg)
 
 \*\**
 
@@ -58,7 +58,7 @@ Lucrecia Martel perfectly explained this tendency during her talk in the academi
 
 A similar conclusion came from Owen Wilson’s talk in Cartagena, when he explained that he puts as much of himself as he can in every character. His acting formula for bringing up laughter and entertaining the audience is being as faithful to reality as he can, since reality is awkward enough and brings by itself the humour a character and a movie need. Therefore, is not strange that the audience finds that Owen Wilson is not different from his characters in his personal life, as he himself declared.
 
-![Still from Matar a Jesus](matar-a-jesus_2.jpg)
+![Laura Mora, director of Matar a Jesus. Picture by David Estrada. ](149matar-a-jesus_jdavid-estrada.jpg)
 
 \*\**
 
