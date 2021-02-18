@@ -2,7 +2,7 @@
 title: Each time we see more of ourselves in cinema
 author:
   - Ale
-date: 2021-02-17T17:41:01.272Z
+date: 2021-02-17T18:15:00.000Z
 excerpt: A feature about movies and directors that reflect day-to-day struggles
   and connect audiences with honest characters. I made it as part of the Gabo
   Fellowship of Cultural Journalism that was held during the 2018 Cartagena
