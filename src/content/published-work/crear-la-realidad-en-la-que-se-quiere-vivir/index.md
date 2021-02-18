@@ -12,7 +12,7 @@ tags:
 image: pablohassmann.jpg
 draft: true
 ---
-*Originally published [here](https://www.trampolin-mag.com/bruna-silva/) on June 2020.* 
+*Originally published [](https://www.trampolin-mag.com/bruna-silva/)in [Trampolín Magazine](https://www.trampolin-mag.com/bruna-silva/) on June 2020.* 
 
 Existe un extraño fenómeno al migrar que hace que te sientas más cercano y representado por el lugar que dejaste atrás una vez estás lejos. Bruna Silva (Río de Janeiro, 1987) lo siente palpitar en ella. Dejó su ciudad natal hace siete años y ahora llama a Berlín su hogar: “*Desde que vine a Europa me di cuenta que me siento más latina y pienso más sobre ello*”. Tal vez esta latinidad que nos une, como un lazo invisible de nacimiento, es lo que hace que, a tan solo una hora de conocernos, nos riamos con la comodidad de las viejas amigas.
 
