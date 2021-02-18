@@ -2,7 +2,7 @@
 title: Berlin is a bitch and then you marry
 author:
   - Ale
-date: 2021-02-17T19:59:31.222Z
+date: 2021-02-18T19:30:53.742Z
 excerpt: "A friend invited me to talk about my experience living in Berlin for
   Dieverpeilte Magazine. The image accompanies the original article and belongs
   to Dieverpeilte. "
@@ -11,7 +11,7 @@ tags:
 image: screenshot-2021-02-17-at-19.25.45.png
 draft: true
 ---
-*This is the original text from the one published in German [here ](https://dieverpeilte.de/berlin-is-a-bitch-and-then-you-marry/)on January 2021.* 
+*This is the original text from the one published in German in Dieverpeilte [here ](https://dieverpeilte.de/berlin-is-a-bitch-and-then-you-marry/)on January 2021.* 
 
 Randomly and for many years, I had on my wall in Bogotá a postcard with Nefertiti, the TV Tower and the Parthenon that said “Berlin is a bitch, and then you marry”. Little did I know how years later the postcard would make sense as I saw my life tremendously transformed by my decision to move to Germany.
 
