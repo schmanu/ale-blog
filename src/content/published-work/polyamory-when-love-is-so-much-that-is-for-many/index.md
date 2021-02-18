@@ -10,7 +10,7 @@ tags:
 image: poli.jpg
 draft: true
 ---
-*Translated from the original published [here](https://www.elespectador.com/cromos/estilo-de-vida/poliamor-cuando-el-amor-es-tanto-que-es-para-muchos/) in Spanish on October 2018.* 
+*Translated from the original published in Spanish in [Cromos Magazine](https://www.elespectador.com/cromos/estilo-de-vida/poliamor-cuando-el-amor-es-tanto-que-es-para-muchos/) on October 2018.* 
 
 I talked with several polyamorous persons in order to understand this kind of relational identity in which love, for oneself and others, seems to overflow to the point that it can’t concentrate in just one person.
 
