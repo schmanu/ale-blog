@@ -11,7 +11,7 @@ tags:
 image: 21557623_10154237327849229_4501807175182389945_n.jpg
 draft: true
 ---
-*Translated from the original published[ here](https://www.elespectador.com/noticias/cultura/pablo-posada-pernikoffcada-ser-humano-se-relaciona-con-la-materia/) in Spanish [](https://www.elespectador.com/noticias/cultura/pablo-posada-pernikoffcada-ser-humano-se-relaciona-con-la-materia/)on September 2017.* 
+*Translated from the original published in Spanish in [El Espectador ](https://www.elespectador.com/noticias/cultura/pablo-posada-pernikoffcada-ser-humano-se-relaciona-con-la-materia/)*[](https://www.elespectador.com/noticias/cultura/pablo-posada-pernikoffcada-ser-humano-se-relaciona-con-la-materia/)*on September 2017.* 
 
 Talking with Pablo Posada Pernikoff is getting in touch with the wisdom and knowledge that come with many years of studies and travels, which have given this man an unique vision of the world that he carries with himself and is translated into his artwork and his words.
 
