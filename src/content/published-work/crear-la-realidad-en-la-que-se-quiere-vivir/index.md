@@ -12,7 +12,7 @@ tags:
 image: pablohassmann.jpg
 draft: false
 ---
-*Originally published [](https://www.trampolin-mag.com/bruna-silva/)in [Trampolín Magazine](https://www.trampolin-mag.com/bruna-silva/) on June 2020.* 
+*Originally published* [](https://www.trampolin-mag.com/bruna-silva/)*in [Trampolín Magazine](https://www.trampolin-mag.com/bruna-silva/) on June 2020.* 
 
 Existe un extraño fenómeno al migrar que hace que te sientas más cercano y representado por el lugar que dejaste atrás una vez estás lejos. Bruna Silva (Río de Janeiro, 1987) lo siente palpitar en ella. Dejó su ciudad natal hace siete años y ahora llama a Berlín su hogar: “*Desde que vine a Europa me di cuenta que me siento más latina y pienso más sobre ello*”. Tal vez esta latinidad que nos une, como un lazo invisible de nacimiento, es lo que hace que, a tan solo una hora de conocernos, nos riamos con la comodidad de las viejas amigas.
 
@@ -42,7 +42,7 @@ El término *expat* en inglés es más controversial que el castellano “expa
 
 Administrar 'Expat Ladies' es parte de su rutina. Por su trabajo pasa muchas horas frente al computador y cada dos o tres horas, invierte diez minutos a revisar comentarios y solicitudes. “*Es un trabajo, por encima de todo, emocional y que demanda mucha energía*”.
 
-![Bruna Silva. Picture by Pablo Hassmann.](ph.jpg)
+![Bruna Silva. Picture by Pablo Hassmann.](ph.jpg "Bruna Silva. Picture by Pablo Hassmann.")
 
 Se detiene para poner un recordatorio en su celular y no olvidar que tiene cita con su terapeuta, que está de vuelta en Río. Tiene citas constantes, desde hace años, para hablar de su salud mental. Hoy en día hablan sobre un pensamiento recurrente: su vida está en un punto tan estable que se acerca a lo aburrido. Estar tan cerca a lo lineal la hace extrañar el drama: “*Tal vez por eso procrastino tanto, para poner algo de dolor u otro sentimiento diferente a lo cotidiano en mi vida*”.
 
