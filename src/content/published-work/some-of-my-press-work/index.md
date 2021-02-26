@@ -8,7 +8,7 @@ excerpt: Here is some of the content I created for the promotion of movie and
 tags:
   - Published Work
 image: screenshot-2021-02-18-at-21.04.05.png
-draft: true
+draft: false
 ---
 I worked as content creator and coordinator for an agency that promoted movies and movie festivals. I had the opportunity of creating many different kinds of content: press releases, press kits, newspaper offsets, captions and radio content. Here are some that are still available on internet. 
 
