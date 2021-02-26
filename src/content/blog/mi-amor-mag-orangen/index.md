@@ -7,7 +7,7 @@ description: She rly does!
 excerpt: A feature I did for one of my classes, about the demonstrations in
   Berlin supporting different protests in Latin America. The photos are mine.
 image: fb_img_1574380453266.jpg
-draft: true
+draft: false
 ---
 *How have fellow citizens in the distant Berlin respond to protests in South America.* 
 
