@@ -9,7 +9,7 @@ excerpt: A conversation I had with the French-Colombian plastic artist on the
 tags:
   - Published Work
 image: 21557623_10154237327849229_4501807175182389945_n.jpg
-draft: true
+draft: false
 ---
 *Translated from the original published in Spanish in [El Espectador ](https://www.elespectador.com/noticias/cultura/pablo-posada-pernikoffcada-ser-humano-se-relaciona-con-la-materia/)*[](https://www.elespectador.com/noticias/cultura/pablo-posada-pernikoffcada-ser-humano-se-relaciona-con-la-materia/)*on September 2017.* 
 
