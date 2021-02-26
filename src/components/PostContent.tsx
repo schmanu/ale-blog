@@ -667,6 +667,13 @@ export const PostFullContent = styled.section`
     min-width: 100%;
   }
   /* End Syntax Highlighting */
+  /* Start Gatsby MD Image Captions */
+  .gatsby-resp-image-figcaption {
+    text-align: center;
+    font-size: 69%;
+    line-height: 1.2;
+    font-style: italic;
+  }
 `;
 
 export default PostContent;
