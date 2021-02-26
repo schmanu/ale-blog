@@ -10,7 +10,7 @@ excerpt: Some of my work in Spanish! This is a profile made for Trampolín
 tags:
   - Published Work
 image: pablohassmann.jpg
-draft: true
+draft: false
 ---
 *Originally published [](https://www.trampolin-mag.com/bruna-silva/)in [Trampolín Magazine](https://www.trampolin-mag.com/bruna-silva/) on June 2020.* 
 
