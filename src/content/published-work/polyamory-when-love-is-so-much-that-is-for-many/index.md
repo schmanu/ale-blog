@@ -8,7 +8,7 @@ excerpt: "A feature about polyamory created by conversations with various people
 tags:
   - Published Work
 image: poli.jpg
-draft: true
+draft: false
 ---
 *Translated from the original published in Spanish in [Cromos Magazine](https://www.elespectador.com/cromos/estilo-de-vida/poliamor-cuando-el-amor-es-tanto-que-es-para-muchos/) on October 2018.* 
 
