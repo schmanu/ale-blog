@@ -10,7 +10,7 @@ excerpt: A feature about movies and directors that reflect day-to-day struggles
 tags:
   - Published Work
 image: virus-tropical-still_5.jpg
-draft: true
+draft: false
 ---
 *Translated from the original published [](https://www.elespectador.com/noticias/cultura/cada-vez-nos-vemos-mas-en-el-cine/)in Spanish in [El Espectador](https://www.elespectador.com/noticias/cultura/cada-vez-nos-vemos-mas-en-el-cine/) on March 2018.* 
 
