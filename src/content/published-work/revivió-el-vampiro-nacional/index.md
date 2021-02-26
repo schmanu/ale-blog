@@ -9,7 +9,7 @@ excerpt: "More of my work in Spanish! This is an article I wrote for El
 tags:
   - Published Work
 image: purasangre.jpg
-draft: true
+draft: false
 ---
 *Originally published in [El Espectador](https://www.elespectador.com/noticias/cultura/revivio-el-vampiro-nacional/) on October 2017.* 
 
