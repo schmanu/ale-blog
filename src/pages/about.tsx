@@ -77,10 +77,10 @@ const About: React.FC<AboutTemplateProps> = (props) => (
               <div className="post-content">
               <img style={{float: "none"}} src={props.data.ale.childImageSharp.fixed.src} />
                 <h5>
-                  Who am I?
+                ¡Hola!
                 </h5>
                 <p>
-                ¡Hola! I am Alejandra Santamaría, a Colombian journalist currently living in Berlin and studying the Digital Journalism Master’s at HMKW – University of Applied Sciences.                </p>
+                I am Alejandra Santamaría, a Colombian journalist currently living in Berlin and studying the Digital Journalism Master’s at HMKW – University of Applied Sciences.                </p>
                 <p>
                 I am profoundly interested in investigative journalism, cultural and viral phenomena, creative writing and, content creation.</p>
                 <p>
