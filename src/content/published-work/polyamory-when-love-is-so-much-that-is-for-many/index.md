@@ -3,8 +3,8 @@ title: "Polyamory: when love is so much that is for many"
 author:
   - Ale
 date: 2021-02-17T17:58:47.823Z
-excerpt: "A feature about polyamory created by conversations with various people
-  that practice it. "
+excerpt: "A feature about polyamory created for Cromos Magazine from
+  conversations with various people that practice it. "
 tags:
   - Published Work
 image: poli.jpg
