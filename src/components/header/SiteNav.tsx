@@ -8,10 +8,9 @@ import styled from '@emotion/styled';
 import { colors } from '../../styles/colors';
 import { SocialLink, SocialLinkFb } from '../../styles/shared';
 import config from '../../website-config';
-import { Facebook } from '../icons/facebook';
-import { Twitter } from '../icons/twitter';
 import { SubscribeModal } from '../subscribe/SubscribeModal';
-import { SiteNavLogo } from './SiteNavLogo';
+import { Instagram } from '../icons/instagram';
+import { Mail } from '../icons/mail';
 
 interface SiteNavProps {
   isHome?: boolean;
@@ -108,27 +107,28 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           </SiteNavLeft>
           <SiteNavRight>
             <SocialLinks>
-              {config.facebook && (
+              {config.instagram && (
                 <a
                   className="social-link-fb"
                   css={[SocialLink, SocialLinkFb]}
-                  href={config.facebook}
+                  href={config.instagram}
                   target="_blank"
-                  title="Facebook"
+                  title="Instagram"
                   rel="noopener noreferrer"
                 >
-                  <Facebook />
+                  <Instagram />
                 </a>
               )}
-              {config.twitter && (
+              {config.mail && (
                 <a
-                  css={SocialLink}
-                  href={config.twitter}
-                  title="Twitter"
+                  className="social-link-fb"
+                  css={[SocialLink, SocialLinkFb]}
+                  href={"mailto:" + config.mail}
                   target="_blank"
+                  title="Mail"
                   rel="noopener noreferrer"
                 >
-                  <Twitter />
+                  <Mail />
                 </a>
               )}
             </SocialLinks>
