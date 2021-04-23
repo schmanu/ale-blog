@@ -7,7 +7,7 @@ CMS.registerEditorComponent({
     pattern: /`audio: (\S+)`/,
     fromBlock: function(match) {
         return {
-          id: match[1]
+            audioFileName: match[1]
         };
       },
     toBlock: function (obj) {
