@@ -47,8 +47,8 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Maria Santamaria',
-  description: '',
+  title: '(María) Alejandra Santamaría',
+  description: 'Journalist & Content creator',
   coverImage: 'img/blog-cover.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',

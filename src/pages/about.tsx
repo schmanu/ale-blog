@@ -80,17 +80,14 @@ const About: React.FC<AboutTemplateProps> = (props) => (
                   Who am I?
                 </h5>
                 <p>
-                  ¡Hola! I am Alejandra Santamaría, a Colombian journalist currently living in Berlin and studying the Convergent Journalism Master’s in HMKW – University of Applied Sciences. 
-                </p>
+                ¡Hola! I am Alejandra Santamaría, a Colombian journalist currently living in Berlin and studying the Digital Journalism Master’s at HMKW – University of Applied Sciences.                </p>
                 <p>
-                  I am profoundly interested in cultural phenomena, particularly its intersection with social initiatives, and viral contents. My professional experience has been in the fields of cultural journalism and content and digital strategy creation, for movies and theater. 
-                </p>
+                I am profoundly interested in investigative journalism, cultural and viral phenomena, creative writing and, content creation.</p>
                 <p>
-                  I love everything cute, memes, cool t-shirts, dancing reggaeton, coffee, beer and laughing loudly. I am also a yoga and running enthusiast, and you can see me almost always writing
-                </p>  
+                My professional experience has been mainly in the field of cultural journalism, collaborating with media like El Espectador, one of Colombia’s oldest and most recognized newspapers, Cromos Magazine and Trampolín Magazine. I also have experience writing content for the press of movies and movie festivals, creating digital strategies to promote theatre spectacles, and as a community manager.                </p>  
                 <p>
                 <img style={{float: "none"}} src={props.data.paAle.childImageSharp.fixed.src} />
-                 Here is a pic of me and my dad that defines me pretty well: always curious, always wondering, always trying.
+                 Here is a pic of me and my dad that defines me pretty well: always curious and always wondering.
                 </p>
               </div>
             </PostFullContent>
