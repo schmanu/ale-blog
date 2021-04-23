@@ -6,11 +6,11 @@ date: 2021-04-13T13:33:34.302Z
 excerpt: "More of my work in Spanish! New profile for Trampolín Magazine about
   Francisco Álvarez, a Chilean political activist living in Berlin. I wanted to
   see Chile's political landscape through the eyes of someone deeply involved.
-  All pictures are taken by Micaela Masetto for Trampolín. "
+  All pictures are taken by Micaela Masetto for Trampolín Magazine. "
 tags:
   - Published Work
 image: trampolin-francisco-by-micaelamasetto-7.jpeg
-draft: true
+draft: false
 ---
 La primera vez que hablé con Francisco, ese no era su nombre. Me dieron su contacto como «Chino» y me dijeron que era la persona para hablar si quería saber sobre la participación de los chilenos en Berlín en apoyo al estallido social que se dio en Chile en octubre de 2019. Luego supe su verdadero nombre y que su apodo se debía a unos rasgos físicos que para mí no resultan tan evidentes. También, sobre todo, que alberga una creencia profunda en la política.
 
