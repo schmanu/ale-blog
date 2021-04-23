@@ -7,7 +7,7 @@ excerpt: Social media content developed for the multi-platform project 'Faces of
   the Crisis', in which a group of journalists takes a deep look into how COVID
   is affecting the educational sector in Berlin.
 image: hd2.png
-draft: true
+draft: false
 ---
 Along with two of my classmates of the Digital Journalism Master at HMKW, we dig deep into the consequences and the impact the COVID crisis has on education in Berlin. We named our project 'Faces of the Crisis'. 
 
