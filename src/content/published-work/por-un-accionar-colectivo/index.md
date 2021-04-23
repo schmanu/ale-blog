@@ -2,7 +2,7 @@
 title: Por un accionar colectivo
 author:
   - Ale
-date: 2021-04-13T13:33:34.302Z
+date: 2021-04-23T13:25:40.760Z
 excerpt: "More of my work in Spanish! New profile for Trampolín Magazine about
   Francisco Álvarez, a Chilean political activist living in Berlin. I wanted to
   see Chile's political landscape through the eyes of someone deeply involved.
