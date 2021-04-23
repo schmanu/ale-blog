@@ -3,7 +3,7 @@ import CMS from "netlify-cms-app";
 CMS.registerEditorComponent({
     id: "audio",
     label: "Audio",
-    fields: [{name: "audioFileName", label: "Audio Filename" , widget: "string"}],
+    fields: [{name: "audioFileName", label: "Audio File" , widget: "file"}],
     pattern: /`audio: (\S+)`/,
     fromBlock: function(match) {
         return {
@@ -11,9 +11,9 @@ CMS.registerEditorComponent({
         };
       },
     toBlock: function (obj) {
-        return "`audio: " + obj.id + "`";
+        return "`audio: " + obj.audioFileName + "`";
     },
     toPreview: function(obj) {
-        return "Audio: <b>" + obj.id + "</b>";
+        return "Audio: <b>" + obj.audioFileName + "</b>";
     }
 });
