@@ -22,3 +22,5 @@ My professional experience has been mainly in the field of cultural journalism, 
 I participated in different workshops and non-fiction creative writing workshops, like the Gabo Fellowship of Cultural Journalism of the Gabo Foundation, the Cultural Journalism Workshop organized by Arcadia Magazine and the Embassy of Spain in Colombia, and most recently, a memoir writing workshop directed by Indian writer Saskya Jain. 
 :::
 Here is a pic of me and my dad that defines me pretty well: always curious and always wondering.
+
+Let's talk! Click the tiny envelope and send me an email.
