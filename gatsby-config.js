@@ -12,7 +12,12 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-sitemap',
-    'gatsby-plugin-netlify-cms',
+    {
+      resolve: 'gatsby-plugin-netlify-cms',
+      options: {
+        modulePath: path.join(__dirname, 'src', 'cms', 'index.tsx'),
+      },
+    },
     {
       resolve: 'gatsby-plugin-sharp',
       options: {
