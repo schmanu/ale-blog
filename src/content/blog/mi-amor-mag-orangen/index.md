@@ -5,7 +5,8 @@ author:
 date: 2020-11-20T11:24:36.885Z
 description: She rly does!
 excerpt: A feature I did for one of my classes, about the demonstrations in
-  Berlin supporting different protests in Latin America. The photos are mine.
+  Berlin supporting different protests in Latin America. The main picture is
+  taking from the Facebook of 'Unidos por la Paz - Alemania'.
 image: fb_img_1574380453266.jpg
 draft: false
 ---
@@ -23,7 +24,7 @@ When protests broke in La Paz, Cochabamba and other cities, the collective organ
 
 On a different cold night, a child claps his hands and dances in a window to the rhythm of the protests chants of 500 persons that walk with banners, instruments and Colombian flags under an intense rain towards the Brandenburg Gate. “*There are lots of people here that have very precarious conditions as migrants*” says Alexandra, member of the ‘Kolumbienkampagne Berlin’ (Colombian Campaign Berlin), one of the collectives that organized the protests after the start of the national strike, “*this is a way for proving that we, here, don’t have solidarity only for what happens in Colombia but also what happens with Colombians here in Europe*”. 
 
-![Some posters that were part of a demonstration at the Brandenburg Gate supporting Colombia's national strike.](img_20191121_175822453.jpg)
+![Some posters that were part of a demonstration at the Brandenburg Gate supporting Colombia's national strike. Picture by me.](img_20191121_175822453.jpg)
 
 Jheysson is member of ‘Unidos por la paz – Alemania’ (United for Peace – Germany) another collective organizing the protests, and one of the protesters himself. He yearns of coming back to his homeland but in different conditions: “*I wish Colombia has a society in peace like the one here. I see here that life is very important: yesterday there was a shooting and today there are demonstrations already*” - He refers to the recent attack to two shisha bars in Hanau, in which the shooter killed nine people - “*That means that a single life is appreciated and valued. In Colombia everyday someone is getting killed and we don’t care. I want my country to achieve that standard of life respect*”. 
 
