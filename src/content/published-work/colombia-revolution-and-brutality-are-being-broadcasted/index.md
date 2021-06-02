@@ -8,7 +8,7 @@ excerpt: A piece I wrote for Luxiders Magazine about the National strike that
   media is having in it. The pictures are taken by Renso Delgado.
 tags:
   - Published Work
-image: whatsapp-image-2021-05-07-at-17.17.28.jpeg
+image: whatsapp-image-2021-05-07-at-17.17.28-1-.jpeg
 draft: false
 ---
 You can read [here](https://luxiders.com/colombia-revolution-and-brutality-broadcasted/) the text published in Luxiders Magazine on May 10th, 2021. 
@@ -21,13 +21,13 @@ To demonstrations including chants, dances, performances, music, and even voguin
 
 The dramatic human rights breach that protesters are going through is being recorded, and social media is having a pivotal role in spreading it to millions around the world. Independent and internet-based media outlets like La Oreja Roja, Primera Línea, and Vorágine continuously post citizen videos of police brutality. Celebrities, like Colombian singer Adriana Lucía, actors Julián Román and Santiago Alarcón, and even Puerto Rican singer Residente, have either started or joined live videos from protesters within the manifestations, sharing the clashes with police forces with their millions of followers.
 
-![](whatsapp-image-2021-05-07-at-17.17.31.jpeg "Protests in Cali. Picture by Renso Delgado. ")
+![](whatsapp-image-2021-05-07-at-17.17.28.jpeg "Protests in Cali. Picture by Renso Delgado. ")
 
 Social media visibility is especially vital when official media does not give air space to the attacks against protesters. They even alter information, which is the case of RCN news, one of the biggest of the country. The channel shared a video of a protest in Cali using the headline "Celebration for changes in the reform," falsely referring to the manifestations as supporting modifications Duque announced for the reform at that moment. NGO Human Rights International tweeted about the situation asking RCN not to lie, a basic journalistic principle.
 
 On the internet, the strike has other expressions. The hacker group Anonymous deactivated the website of the Colombian Army, and the comment section of the United Nations YouTube Livestream is flooded with hundreds of messages saying "SOS Colombia". An NYU webinar on May 5 with ex-president Uribe, the political godfather of president Duque, turned into a disaster since the internet connection of both the event's hosts and Uribe was continuously interrupted, all the while he kept complaining of technical difficulties. Like happened with racist hashtags in the United States, the K-pop fandom hacked hashtags used by supporters of the police forces by virally tweeting them with videos of K-pop concerts and songs.
 
-![](whatsapp-image-2021-05-07-at-17.17.28-1-.jpeg "Picture by Renso Delgado.")
+![](whatsapp-image-2021-05-07-at-17.17.31.jpeg "Picture by Renso Delgado.")
 
 Increasingly since May 5, users report censorship by Instagram. Many accounts actively sharing strike-related content have been banned from transmitting or posting, on the grounds that their content goes against community guidelines, but the warning shows even if what they are trying to share does not depict violent scenes; or in other cases, all the content they upload related to the strike is taken down. Even celebrities like actresses Rachel Zegler and Jameela Jamil reported on Twitter that Instagram took down their stories about Colombia without explanation. Users also noted that the IG stories of those sharing about the strike are not visible.
 
