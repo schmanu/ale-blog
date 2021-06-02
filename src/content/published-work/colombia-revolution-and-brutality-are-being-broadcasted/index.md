@@ -9,7 +9,7 @@ excerpt: A piece I wrote for Luxiders Magazine about the National strike that
 tags:
   - Published Work
 image: whatsapp-image-2021-05-07-at-17.17.28.jpeg
-draft: true
+draft: false
 ---
 You can read [here](https://luxiders.com/colombia-revolution-and-brutality-broadcasted/) the text published in Luxiders Magazine on May 10th, 2021. 
 
