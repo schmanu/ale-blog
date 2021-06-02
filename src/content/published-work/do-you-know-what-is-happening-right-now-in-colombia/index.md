@@ -9,7 +9,7 @@ excerpt: My friend Anne Lange invited me to a talk with Dieverpeilte magazine
 tags:
   - Published Work
 image: img_3614.jpeg
-draft: true
+draft: false
 ---
 *This is the original interview we did. You can see [here](https://dieverpeilte.de/proteste-kolumbien/) the published version in German, published in Dieverpeilte on May 14th, 2021. All the pictures are taken by me.* 
 
