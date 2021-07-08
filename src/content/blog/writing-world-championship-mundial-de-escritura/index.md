@@ -10,7 +10,7 @@ excerpt: "I participated in the 4th 'Mundial de Escritura' (Writing World
   favourite texts and the premise was to give instructions on how to empty a
   house (in Spanish). "
 image: mundial.webp
-draft: true
+draft: false
 ---
 Bueno, como todos saben, el deseo de Gabriel era que cuando él ya no estuviera, a esta casa se la comiera la naturaleza. Entonces nuestra misión es vaciarla de todo lo que no la permita florecer y dejarla preparada para que sea la mejor maceta posible ¿Se parece como a la vida, no? Nos vamos vaciando de aquello que no nos deja crecer, de aquello que vuelve infértil al terreno de nuestra realidad y arrancamos raíces que de pronto apreciábamos pero luego se pudren y se tornan venenosas. En cambio intentamos llenarnos de eso que nos ayuda a crecer, perseguimos el sol y la transformación. 
 
