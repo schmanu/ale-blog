@@ -7,7 +7,7 @@ excerpt: Publications about the Colombian National Strike that started on April 
 tags:
   - Published Work
 image: screenshot-2021-07-08-at-15.52.47.png
-draft: true
+draft: false
 ---
 Now Simplified (@nowsimplified) and Simplified Español (@simplifiedespanol) are Instagram-based platforms that intend to make political topics understandable and accessible for the audience. I collaborated with both platforms in order to create posts about the Colombian National Strike that started on April 28, 2021, and up until today, it is still ongoing. 
 
