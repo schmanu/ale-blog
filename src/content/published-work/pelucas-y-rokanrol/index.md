@@ -9,7 +9,7 @@ excerpt: I did the digital strategy for 'Pelucas y Rokanrol', a movie around the
 tags:
   - Published Work
 image: d3a_0451a.jpg
-draft: true
+draft: false
 ---
 'Pelucas y Rokanrol' is the debut film of Colombian renowned actor and musician, Mario Duarte. Mario provided me with pictures, videos, and his ideas behind the film and I translated them into a digital campaign mostly focused on Instagram for promoting the film. 
 
