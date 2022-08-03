@@ -9,7 +9,7 @@ excerpt: A compilation of some of my favorite posts done while I was the Digital
 tags:
   - Published Work
 image: colon-2.jpg
-draft: true
+draft: false
 ---
 For over a year and a half, I was the Digital Strategist of Colón Theater of Bogotá, Colombia's only national theater, meaning that it is State managed. It is also the biggest production center for arts and music in the country.
 
