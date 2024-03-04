@@ -7,7 +7,7 @@ excerpt: Experimenting with podcasts, a format I love and would love to work in
   professionally. Along with my classmates, we developed a podcasts on techno
   music in Berlin and its importance.
 image: img-20191218-wa0068.jpg
-draft: false
+draft: true
 ---
 Podcasts are one of my favorite journalistic formats, given their ubiquitous, easy access and the variety of topics available. They are easy and fun ways of learning, informing, and entertaining oneself. 
 
@@ -17,4 +17,4 @@ We chose the topic of techno music in Berlin. We wanted to inquire about the dif
 
 I hope you enjoy it!
 
-`audio: berlin_vibes_final.mp3`
+`audio: `
